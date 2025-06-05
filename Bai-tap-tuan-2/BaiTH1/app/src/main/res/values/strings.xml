@@ -1,0 +1,8 @@
+<resources>
+    <string name="back_button">Quay lại</string>
+    <string name="edit_button">Chỉnh sửa</string>
+    <string name="avatar_desc">Ảnh đại diện người dùng</string>
+    <string name="dat_name">Phan Phát Đạt - CN22G</string>
+    <string name="dat_text">Em mong muốn phát triển ứng dụng Android tích hợp AI, đặc biệt thị giác máy tính như nhận diện khuôn mặt, vật thể, OCR cho các giải pháp thông minh.</string>
+    <string name="app_name">BaiTH1</string>
+</resources>

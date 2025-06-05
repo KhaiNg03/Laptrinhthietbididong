@@ -1,0 +1,8 @@
+<resources>
+    <string name="back_button">Nút quay lại</string>
+    <string name="edit_button">Nút chỉnh sửa</string>
+    <string name="avatar_desc">Ảnh đại diện</string>
+    <string name="johan_name">Phát Đạt</string>
+    <string name="johan_location">TP. Hồ Chí Minh, Việt Nam</string>
+    <string name="app_name">UserID</string>
+</resources>

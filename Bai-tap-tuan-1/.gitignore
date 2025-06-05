@@ -1,0 +1,17 @@
+# Thư mục build của Android
+/build/
+*/build/
+
+# Thư mục của IDE Android Studio
+.idea/
+*.iml
+
+# File cấu hình riêng của máy
+local.properties
+
+# Các file hệ thống không cần thiết
+.DS_Store
+*.log
+
+# Cache Gradle
+.gradle/
