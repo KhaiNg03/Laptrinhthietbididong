@@ -1,4 +1,4 @@
-# Bài tập Thực hành Android Kotlin – UTH - Phan Phát Đạt
+# Bài tập Thực hành Android Kotlin – UTH - Nguyễn Quang Khải
 
 Đây là bộ bài tập thực hành cơ bản được thực hiện bằng ngôn ngữ Kotlin trên Android Studio.  
 Sinh viên xây dựng một ứng dụng hiển thị danh sách các thành phần UI cơ bản sử dụng Jetpack Compose, đồng thời tự tìm hiểu và mô tả chức năng từng thành phần.
