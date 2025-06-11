@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AppCompat Light Theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Các tùy chỉnh khác -->
+    </style>
+</resources>
