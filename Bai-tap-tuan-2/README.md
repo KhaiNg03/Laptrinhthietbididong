@@ -1,4 +1,4 @@
-# Bài tập Thực hành Android Kotlin – UTH - Phan Phát Đạt
+# Bài tập Thực hành Android Kotlin – UTH - Nguyễn Quang Khải
 
 Đây là bộ bài tập thực hành cơ bản được thực hiện bằng Kotlin trên Android Studio, bao gồm các thao tác nhập liệu, hiển thị thông tin và xử lý logic đơn giản theo yêu cầu.
 
