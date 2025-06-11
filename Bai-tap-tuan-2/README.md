@@ -1,4 +1,4 @@
-# Bài tập Thực hành Android Kotlin – UTH - Phan Phát Đạt
+# Bài tập Thực hành Android Kotlin – UTH - Nguyễn Quang Khải
 
 Đây là bộ bài tập thực hành cơ bản được thực hiện bằng Kotlin trên Android Studio, bao gồm các thao tác nhập liệu, hiển thị thông tin và xử lý logic đơn giản theo yêu cầu.
 
@@ -15,7 +15,7 @@
   - Câu hỏi: “Mong muốn và định hướng của bạn là gì sau khi học xong môn học?”
 
 📷 Giao diện mẫu:  
-![Hello World](BaiTH1/images/hello_ui_demo.jpg)
+
 
 ---
 
@@ -28,9 +28,7 @@
   - Nếu hợp lệ → thông báo: **Bạn đã nhập email hợp lệ**
 
 📷 Giao diện mẫu:
-- Email rỗng: ![Email null](BaiTH2/images/email_1_ui_demo.jpg)  
-- Sai định dạng: ![Email sai](BaiTH2/images/email_2_ui_demo.jpg)  
-- Hợp lệ: ![Email đúng](BaiTH2/images/email_3_ui_demo.jpg)
+
 
 ---
 
@@ -44,7 +42,7 @@
   - **Người già**: Tuổi > 65
 
 📷 Giao diện mẫu:  
-![Kiểm tra tuổi](BTVN/images/age_ui_demo.jpg)
+
 
 ---
 
