@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158833950521",
+    "project_id": "week04loginflow",
+    "storage_bucket": "week04loginflow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158833950521:android:8d7cb821e26ed81560b2e8",
+        "android_client_info": {
+          "package_name": "com.example.week04loginflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158833950521-75pus1ff73idv4mf19l2hljd54qaccbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNuuNvt6OWP-JfDIpRg_dieM-YB9hJeA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158833950521-75pus1ff73idv4mf19l2hljd54qaccbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
